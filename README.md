@@ -59,6 +59,7 @@ I love solving real-world problems with clean architecture, scalable engineering
 
 **Node.js + Express.js**
 
+**Java with Spring Boot**
 
  **tRPC Api**
 
@@ -76,7 +77,6 @@ I love solving real-world problems with clean architecture, scalable engineering
  
  **Pino/Winston logging**
 
-**Grafana(Absolue Analytics)**
 
 **NATS Jetstream**
  
@@ -105,6 +105,18 @@ I love solving real-world problems with clean architecture, scalable engineering
    
  **AWS**
 
+ 
+ **Kubernetes**
+
+ 
+ **Terraform**
+
+ 
+ **Ansible**
+
+ 
+ **AWS**
+
  **Vercel**
  
  **CI/CD Pipelines**
@@ -113,10 +125,26 @@ I love solving real-world problems with clean architecture, scalable engineering
  **VPC**
        
        
-       
+# **Monitoring and Logging**
+
+
 **Sentry Monitoring**
 
-**Grafana**
+**Grafana and Prometheus**
+
+**ElasticSearch**
+
+
+# **Dashboard and Analytics**
+
+
+**FluentBit**
+
+
+**Kibana**
+
+
+# **Testing**
     
 **Jest & Supertest for automated testing**
 
@@ -126,7 +154,7 @@ I love solving real-world problems with clean architecture, scalable engineering
 
 **Paypal**
 
-#**Api And Artitecture**
+# **Api And Artitecture**
 
 **Swagger**
 
@@ -135,11 +163,21 @@ I love solving real-world problems with clean architecture, scalable engineering
 **Postman**
 
 
+
+# **Microservices Artitecture**
+
+**Kafka**
+
+**API Gateway**
+
+**Database Sharding or Distribution Patterns**
+
+
            
  # **🎯 Professional Focus**
  **Building scalable backend systems with clean architecture.**
  <br>Delivering high-quality Flutter apps with maintainable structure.<br>
- <br>Implementing AI-driven features (RAG, assistants, embeddings).<br><br>Deploying reliable production systems using Docker + AWS.<br><br>Working with clients and teams to turn ideas into production-ready products.<br><br>🛠️ Current Work & Projects<br><br><br>COVID‑19 Tracker App (Flutter)<br><br>A clean and responsive dashboard app built with modern state management.<br><br>Tech: Flutter, REST API, Riverpod/Bloc<br><br><br>🌟 Why Work With Me<br><br>I ship clean, maintainable, and scalable code.<br><br>Strong understanding of full development lifecycle: design → build → deploy → monitor.<br><br>Experience in AI-powered product development.<br><br>Comfortable working in fast-paced, production-focused environments.<br><br>Available for freelance work, collaborations, and long-term projects.<br><br>📬 Connect With Me<br><br>https://www.linkedin.com/in/usman-siddique-725213379?utm_source=share_via&utm_content=profile&utm_medium=member_android<br>https://youtube.com/@primecodelabs?si=HRfs-sZ6THyzIWLF<br><br>https://www.facebook.com/share/1SZ9zAqswL/<br>https://www.instagram.com/prime_devs_solutions?igsh=ZmRlZ3RpdTBiY3d3<br><br><br>If you're looking for an engineer who can take a project from concept → architecture → UI → backend → deployment, I’d be happy to talk.<br>
+ <br>Implementing AI-driven features (RAG, assistants, embeddings).<br><br>Deploying reliable production systems using Docker + AWS.<br><br>Working with clients and teams to turn ideas into production-ready products.<br><br><br>🌟 Why Work With Me<br><br>I ship clean, maintainable, and scalable code.<br><br>Strong understanding of full development lifecycle: design → build → deploy → monitor.<br><br>Experience in AI-powered product development.<br><br>Comfortable working in fast-paced, production-focused environments.<br><br>Available for freelance work, collaborations, and long-term projects.<br><br>📬 Connect With Me<br><br>https://www.linkedin.com/in/usman-siddique-725213379?utm_source=share_via&utm_content=profile&utm_medium=member_android<br>https://youtube.com/@primecodelabs?si=HRfs-sZ6THyzIWLF<br><br>https://www.facebook.com/share/1SZ9zAqswL/<br>https://www.instagram.com/prime_devs_solutions?igsh=ZmRlZ3RpdTBiY3d3<br><br><br>If you're looking for an engineer who can take a project from concept → architecture → UI → backend → deployment, I’d be happy to talk.<br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Prime Dev Solutions) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Usman%20Siddique) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@primecodelabs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prime%20Labs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:PrimeCodeLabs.worl@gmail.com) 
 
